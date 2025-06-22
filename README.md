@@ -37,9 +37,10 @@ This project aims to predict customer churn for an e-commerce business using the
 | Notebook | Description |
 |---------|-------------|
 | `01_data_loading_cleaning.ipynb` | Load and clean raw data |
-| `02_feature_engineering.ipynb` | Create churn label and features |
-| `03_modeling_churn.ipynb` | Train and evaluate ML models |
-| `04_results_visualization.ipynb` | Visualize model performance and insights |
+`02_churn_labeling.ipynb`
+| `03_feature_engineering.ipynb` | Create churn label and features |
+| `04_modeling_churn.ipynb` | Train and evaluate ML models |
+| `05_results_visualization.ipynb` | Visualize model performance and insights |
 
 ---
 
